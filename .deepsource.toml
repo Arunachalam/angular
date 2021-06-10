@@ -1,6 +1,6 @@
 version = 1
 
-test_patterns = ["version/*.json"]
+test_patterns = ["package/*.json"]
 
 [[analyzers]]
 name = "javascript"
