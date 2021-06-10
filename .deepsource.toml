@@ -1,6 +1,6 @@
 version = 1
 
-test_patterns = ["\"baseUrl\""]
+test_patterns = ["version/*.json"]
 
 [[analyzers]]
 name = "javascript"
