@@ -1,7 +1,5 @@
 version = 1
 
-test_patterns = ["package/*.json"]
-
 [[analyzers]]
 name = "javascript"
 enabled = true
